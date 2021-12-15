@@ -1,0 +1,378 @@
+body {
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    color: rgb(14, 14, 14);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.fas {
+    color: #009688;
+}
+
+
+.custom-hr {
+    padding: 0;
+    margin: 1.5rem 0;
+}
+
+.custom-content{
+    padding: 1.5rem 2.5rem;
+    width: 100%;
+}
+
+.content-row{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+
+/* PROFILE-PIC-COLUMN */
+
+.profile-col{
+    padding: 0rem 8px;
+    margin: 0;  
+    border-radius: 0 0 10px 10px;
+}
+
+.profile-detail-col{
+    padding:0;
+    margin: 1rem 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px 10px 10px 10px;
+    color: #757575;
+
+    
+}
+
+.profile-pic{
+    background-image: url("../image/profil.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+
+
+.profil-pic {
+    font-size: 1.5rem;
+}
+
+.para p{
+    color: white;
+    margin:0;
+    padding:0;
+    margin-top: 15rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.contacts {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.contacts p{
+    margin: 1.5rem 0 1rem 1rem;
+    font-size: 0.95rem;
+}
+
+.fas{
+    margin-right: 1rem ;
+}
+
+
+
+
+
+
+
+
+
+.skills {
+    background-color: rgb(255, 255, 255);
+    padding: 0 2rem;
+}
+
+.skills-section{
+    padding: 1rem 0;
+}
+
+.skills-section p {
+    font-size: 0.95rem;
+    margin: 0 0 0.5rem 0;
+}
+
+.skills h3{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.skills-section span{
+    color: white;
+}
+
+.progress{
+    padding: 0;
+    margin: 0;
+    background-color: #f1f1f1;
+    border-radius: 250px;
+}
+
+.progress-fill-adobe{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 90%;
+    background-color: #009688;
+    text-align: center;
+}
+
+
+.progress-fill-photography{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 80%;
+    background-color: #009688;
+    text-align: center;
+}
+
+
+.progress-fill-illustrator{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 75%;
+    background-color: #009688;
+    text-align: center;
+}
+
+.progress-fill-media{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 50%;
+    background-color: #009688;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.language {
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 0 0 20px 20px;
+}
+
+.language h3{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+.language-section h4{
+    font-size: 0.95rem;
+}
+
+.language-section{
+    padding: 1rem 0;
+}
+
+.progress-fill-english{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 100%;
+    background-color: #009688;
+    text-align: center;
+}
+
+
+.progress-fill-spanish{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 50%;
+    background-color: #009688;
+    text-align: center;
+}
+
+.progress-fill-german{
+    padding: 0;
+    margin: 0;
+    border-radius: 250px;
+    width: 25%;
+    background-color: #009688;
+    text-align: center;
+}
+
+
+
+
+
+
+/* WORK AND EXPERIENCE COLUMN */
+
+
+
+/* WORK COLUMN */
+
+
+.wandf-col{
+    margin:0;
+    padding: 0 8px;
+    background-color: #f1f1f1;
+    
+}
+
+.wandf-col-detail{
+    margin: 1rem 0;
+    padding:1rem;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.wandf-col hr{
+    margin: 2rem 0 0 0;
+}
+
+.work-col{
+    color: #757575;
+    padding: 1rem 1rem;
+    margin: 0;
+}
+
+.work-col h3{
+    margin: 1rem 0;
+    font-size: 2rem;
+}
+
+.first-exp{
+    padding: 1rem;
+}
+
+.heading{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.date {
+    color: #009688;
+    width: auto;
+    display: inline;
+}
+
+.current {
+    display: inline;
+    background-color: #009688;
+    padding: 0.3rem;
+    color: white;
+    border-radius: 5px;
+}
+
+.second-exp{
+    padding: 0rem 1rem 1rem 1rem;
+}
+
+.second-exp p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.third-exp{
+    padding: 0rem 1rem 1rem 1rem
+}
+
+.third-exp p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
+
+/* EDUCATION COLUMN */
+
+
+.education-col{
+    color: #757575;
+    padding: 1rem 1rem;
+    margin: 0;
+}
+
+.first-edu{
+    padding: 1rem;
+}
+
+.first-edu p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.second-edu{
+    padding: 0 1rem 1rem 1rem;
+}
+
+.second-edu p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.third-edu{
+    padding: 0 1rem 1rem 1rem;
+}
+
+.third-edu p{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+footer {
+    background-color: #009688;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 3.6rem;
+}
+
+footer i{
+    padding: 1rem 1rem;
+}
+
+.footer-heading {
+    font-size: 1.2rem;
+}
+
+
+
+
+@media (max-width: 562px) {
+    .custom-content {
+        padding: 1.5rem 0.5rem;
+    }
+}
